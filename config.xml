@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<module>
+    <namespace>Recaptcha</namespace>
+    <version>1.0</version>
+    <author>Blair Jersyer</author>
+    <name>Google reCaptcha</name>
+    <description>Provide a reCaptcha solution for Tendoo CMS login and registration</description>
+</module>
